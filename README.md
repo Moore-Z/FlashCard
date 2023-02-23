@@ -17,7 +17,7 @@ study did not connect to the create data (due to limited time)
 # Note 
 * I remove the .env file by adding it to the .gitignore. So, please add you own mongdb url and password to make this app running. </br>
 
-[MongoDB Atlas]([https://www.google.com](https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_amers-us-ca_ps-all_desktop_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14291004479&adgroup=128837427307&cq_cmp=14291004479&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJSWXXKZP4EY95uJIBPHlBkFqg-1qDioRfshkHa8CDIQ0IDXpZQu5Q4aAgWnEALw_wcB))
+[MongoDB Atlas](https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_amers-us-ca_ps-all_desktop_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14291004479&adgroup=128837427307&cq_cmp=14291004479&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJSWXXKZP4EY95uJIBPHlBkFqg-1qDioRfshkHa8CDIQ0IDXpZQu5Q4aAgWnEALw_wcB)
 
 
 
