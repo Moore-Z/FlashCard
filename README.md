@@ -1,6 +1,6 @@
 
 # How to start
-(server) npm install->nodemon index.mjs
+(server) npm install->nodemon index.mjs<br />
 client npm install -> npm start
 
 
