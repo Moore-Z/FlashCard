@@ -1,3 +1,21 @@
+
+# How to start
+(server) npm install->nodemon index.mjs
+client npm install -> npm start
+
+
+# How to use
+In login first
+use the deck, to create delete update add new deck
+* Note the deck will not refresh the window, please go to the home page and back
+* Also, you can only enter the card page through the C button on each deck, this means you will CRUD cards in this specific deck
+
+You can do the same thing for cards just like deck
+
+study did not connect to the create data (due to limited time)
+
+
+
 # FlashCard
 FlashCard MERN project
 <p>I wish to document my recent efforts on the MERN stack project, the Flashcard Web App, in my first engineering journal. As a solo developer, I built the application from scratch and opted not to utilize additional CSS libraries like Bootstrap, which resulted in an imperfect appearance.
